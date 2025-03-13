@@ -179,7 +179,7 @@ Following inferences can be drawn from the dashboard;
 
     Basic infrastructure and bed availability are severely lacking in Bihar's health facilities, despite relatively high internet access.
 
- ### Service availability
+ ### [4] Service availability
  
  ### Human Resources
  
