@@ -43,9 +43,9 @@ This Power BI dashboard presents the findings of a Bihar health facility assessm
 
 11. Sunburst Chart Usage (Hierarchy and Insights): Sunburst charts were used to: 
 
-   • Visualize internet availability and categorization.
+     • Visualize internet availability and categorization.
 
-   • Represent building conditions and recommendations.
+     • Represent building conditions and recommendations.
 
 12. Donut Chart Usage (Room and BMW Disposal Availability): Two donut charts were added to show the availability of rooms and biomedical waste (BMW) disposal, revealing that 72% of facilities had only up to two rooms available.
 
