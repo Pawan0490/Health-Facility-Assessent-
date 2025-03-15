@@ -34,6 +34,7 @@ This Power BI dashboard presents the findings of a Bihar health facility assessm
 8. Categorical Data Visualization (Building Ownership and Recommendations): Pie charts were used to visualize categorical data related to building ownership and recommendations, highlighting the need for new HSC construction and land availability.
 
 9. Bar Graph Usage (Demographic and Location Data): Bar graphs were used to display: 
+
     • Distance of HSCs from Primary Health Centers (PHCs) and the farthest village.
 
     • Population served by HSCs and marginalized populations.
@@ -41,6 +42,7 @@ This Power BI dashboard presents the findings of a Bihar health facility assessm
 10. Bar Chart Usage (Basic Amenities): A bar chart was added to the report to represent the availability of basic amenities. This chart revealed that basic amenities such as power, water supply, and toilets were lacking in three out of five HSCs, and nearly half of the HSCs had damaged ceilings or seepage.
 
 11. Sunburst Chart Usage (Hierarchy and Insights): Sunburst charts were used to: 
+
    • Visualize internet availability and categorization.
 
    • Represent building conditions and recommendations.
