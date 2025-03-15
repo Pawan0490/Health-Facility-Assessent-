@@ -16,8 +16,11 @@ This Power BI dashboard presents the findings of a Bihar health facility assessm
 2. Data Loading: The Excel dataset was loaded into Power BI Desktop, selecting the data transformation mode before uploading.
 
 3. Handling Missing Values: Over 60% of the columns contained null values. To address this, the following methods were used: 
+
 • Deletion of rows with entirely null values.
+
 • Imputation using mean, mode, and median.
+
 • Development of a predictive model to estimate and replace missing values.
 
 4. Outlier Detection and Treatment: Univariate outliers were identified and treated using imputation and other statistical methods.
