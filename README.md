@@ -17,11 +17,11 @@ This Power BI dashboard presents the findings of a Bihar health facility assessm
 
 3. Handling Missing Values: Over 60% of the columns contained null values. To address this, the following methods were used: 
 
-• Deletion of rows with entirely null values.
+     • Deletion of rows with entirely null values.
 
-• Imputation using mean, mode, and median.
+     • Imputation using mean, mode, and median.
 
-• Development of a predictive model to estimate and replace missing values.
+     • Development of a predictive model to estimate and replace missing values.
 
 4. Outlier Detection and Treatment: Univariate outliers were identified and treated using imputation and other statistical methods.
 
@@ -34,14 +34,16 @@ This Power BI dashboard presents the findings of a Bihar health facility assessm
 8. Categorical Data Visualization (Building Ownership and Recommendations): Pie charts were used to visualize categorical data related to building ownership and recommendations, highlighting the need for new HSC construction and land availability.
 
 9. Bar Graph Usage (Demographic and Location Data): Bar graphs were used to display: 
-• Distance of HSCs from Primary Health Centers (PHCs) and the farthest village.
-• Population served by HSCs and marginalized populations.
+    • Distance of HSCs from Primary Health Centers (PHCs) and the farthest village.
+
+    • Population served by HSCs and marginalized populations.
 
 10. Bar Chart Usage (Basic Amenities): A bar chart was added to the report to represent the availability of basic amenities. This chart revealed that basic amenities such as power, water supply, and toilets were lacking in three out of five HSCs, and nearly half of the HSCs had damaged ceilings or seepage.
 
 11. Sunburst Chart Usage (Hierarchy and Insights): Sunburst charts were used to: 
-• Visualize internet availability and categorization.
-• Represent building conditions and recommendations.
+   • Visualize internet availability and categorization.
+
+   • Represent building conditions and recommendations.
 
 12. Donut Chart Usage (Room and BMW Disposal Availability): Two donut charts were added to show the availability of rooms and biomedical waste (BMW) disposal, revealing that 72% of facilities had only up to two rooms available.
 
